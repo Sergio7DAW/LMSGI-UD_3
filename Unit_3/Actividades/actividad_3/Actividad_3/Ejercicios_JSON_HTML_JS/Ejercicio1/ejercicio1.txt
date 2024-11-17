@@ -1,0 +1,4 @@
+//Investiga dónde se encuentran los datos JSON en el siguiente código HTML, CSS y JavaScript.
+// Agrega dos libros más a la biblioteca.
+
+los datos jason se encuentran en archivo .js del ejemplo.

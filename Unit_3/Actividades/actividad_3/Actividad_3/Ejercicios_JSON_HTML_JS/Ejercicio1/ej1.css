@@ -1,0 +1,11 @@
+#book-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.book-card {
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+}

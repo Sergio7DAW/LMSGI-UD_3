@@ -1,0 +1,20 @@
+<productos>
+  <producto>
+    <nombre>Camiseta</nombre>
+    <precio>19.99</precio>
+    <disponible>true</disponible>
+    <detalles>
+      <color>Rojo</color>
+      <talla>M</talla>
+    </detalles>
+  </producto>
+  <producto>
+    <nombre>Pantalón</nombre>
+    <precio>29.99</precio>
+    <disponible>false</disponible>
+    <detalles>
+      <color>Azul</color>
+      <talla>L</talla>
+    </detalles>
+  </producto>
+</productos>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:s="https://www.w3schools.com/xml/xml_namespaces.asp"
+xmlns:l="https://www.w3schools.com/xml/xml_namespaces.asp">
+<libreria>
+   <libros>
+      <l:genero tema="horror">
+         <libro>El Visitante</libro>
+         <autor>
+            <nombre>Stephen King</nombre>
+            <s:genero>H</s:genero>
+         </autor>
+         <editorial>Anchor</editorial>
+         <isbn>0307743675</isbn>
+         <fecha_pu>2011-11-01</fecha_pu>
+   
+         <libro>IT</libro>
+         <autor>
+            <nombre>Stephen King</nombre>
+            <s:genero>H</s:genero>
+         </autor>
+         <editorial>Anchor</editorial>
+         <isbn>0307743675</isbn>
+         <fecha_pu>1986-09-15</fecha_pu>
+   
+         <libro>Drácula</libro>
+         <autor>
+            <nombre>Bram Stoker</nombre>
+            <s:genero>H</s:genero>
+         </autor>
+         <editorial>Anchor</editorial>
+         <isbn>0307743675</isbn>
+         <fecha_pu>1897-05-26</fecha_pu>
+   
+         <libro>Salem's Lot</libro>
+         <autor>
+            <nombre>Stephen King</nombre>
+            <s:genero>H</s:genero>
+         </autor>
+         <editorial>Anchor</editorial>
+         <isbn>0307743675</isbn>
+         <fecha_pu>1975-10-01</fecha_pu>
+      </l:genero>
+      <l:genero tema="realismo">
+         <libro>¿Por quién redoblan las campanas?</libro>
+         <autor>
+            <nombre>Ernest Hemingway</nombre>
+            <s:genero>H</s:genero>
+         </autor>
+         <editorial>Anchor</editorial>
+         <isbn>0307743675</isbn>
+         <fecha_pu>1940-10-21</fecha_pu>
+   
+         <libro>¿Fiesta?</libro>
+         <autor>
+            <nombre>Ernest Hemingway</nombre>
+            <s:genero>H</s:genero>
+         </autor>
+         <editorial>Anchor</editorial>
+         <isbn>0307743675</isbn>
+         <fecha_pu>1926-10-21</fecha_pu>
+      </l:genero>
+      <l:genero tema="ficcion">
+         <libro>Harry Potter</libro>
+         <autor>
+            <nombre>J.K. Rowling</nombre>
+            <s:genero>F</s:genero>
+         </autor>
+         <editorial>Bloomsbury</editorial>
+         <isbn>9780747532743</isbn>
+         <fecha_pu>1997-06-26</fecha_pu>
+   
+         <libro>Canción de Hielo y Fuego</libro>
+         <autor>
+            <nombre>George R.R. Martin</nombre>
+            <s:genero>H</s:genero>
+         </autor>
+         <editorial>Bantam Books</editorial>
+         <isbn>9780553103540</isbn>
+         <fecha_pu>1996-08-06</fecha_pu>
+   
+         <libro>El Señor de los Anillos</libro>
+         <autor>
+            <nombre>J.R.R. Tolkien</nombre>
+            <s:genero>H</s:genero>
+         </autor>
+         <editorial>HarperCollins</editorial>
+         <isbn>9780261103573</isbn>
+         <fecha_pu>1954-07-29</fecha_pu>
+   
+         <libro>El Hobbit</libro>
+         <autor>
+            <nombre>J.R.R. Tolkien</nombre>
+            <s:genero>H</s:genero>
+         </autor>
+         <editorial>HarperCollins</editorial>
+         <isbn>9780261102217</isbn>
+         <fecha_pu>1937-09-21</fecha_pu>
+      </l:genero>
+   </libros>
+</libreria>
+</root>

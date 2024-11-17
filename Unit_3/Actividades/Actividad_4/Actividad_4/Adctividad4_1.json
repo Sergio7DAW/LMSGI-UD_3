@@ -1,0 +1,76 @@
+{
+  "Escuela": {
+    "Alumnos": [
+      {
+        "Nombre": "",
+        "Apellidos": "",
+        "Edad": "",
+        "Lista Asignaturas Cursas": [
+          { "Asignatura": "", "Calificación": "" },
+          { "Asignatura": "", "Calificación": "" },
+          { "Asignatura": "", "Calificación": "" }
+        ]
+      },
+      {
+        "Nombre": "",
+        "Apellidos": "",
+        "Edad": "",
+        "Lista Asignaturas Cursas": [
+          { "Asignatura": "", "Calificación": "" },
+          { "Asignatura": "", "Calificación": "" },
+          { "Asignatura": "", "Calificación": "" }
+        ]
+      },
+      {
+        "Nombre": "",
+        "Apellidos": "",
+        "Edad": "",
+        "Lista Asignaturas Cursas": [
+          { "Asignatura": "", "Calificación": "" },
+          { "Asignatura": "", "Calificación": "" },
+          { "Asignatura": "", "Calificación": "" }
+        ]
+      }
+    ],
+    "Profesores": [
+      {
+        "Nombre": "",
+        "Apellidos": "",
+        "Edad": "",
+        "Lista Asignaturas que Enseña": [
+          { "Asignatura": "", "Créditos": "" },
+          { "Asignatura": "", "Créditos": "" },
+          { "Asignatura": "", "Créditos": "" }
+        ]
+      },
+      {
+        "Nombre": "",
+        "Apellidos": "",
+        "Edad": "",
+        "Lista Asignaturas que Enseña": [
+          { "Asignatura": "", "Créditos": "" },
+          { "Asignatura": "", "Créditos": "" },
+          { "Asignatura": "", "Créditos": "" }
+        ]
+      },
+      {
+        "Nombre": "",
+        "Apellidos": "",
+        "Edad": "",
+        "Lista Asignaturas que Enseña": [
+          { "Asignatura": "", "Créditos": "" },
+          { "Asignatura": "", "Créditos": "" },
+          { "Asignatura": "", "Créditos": "" }
+        ]
+      }
+    ],
+    "Asignaturas": [
+      { "Nombre": "", "Creditos": "" },
+      { "Nombre": "", "Creditos": "" },
+      { "Nombre": "", "Creditos": "" },
+      { "Nombre": "", "Creditos": "" },
+      { "Nombre": "", "Creditos": "" },
+      { "Nombre": "", "Creditos": "" }
+    ]
+  }
+}

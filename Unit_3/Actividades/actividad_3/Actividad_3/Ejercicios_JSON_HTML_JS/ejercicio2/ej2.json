@@ -1,0 +1,14 @@
+{
+    "books": [
+      {"title": "The Alchemist", "price": 15.99},
+      {"title": "One Hundred Years of Solitude", "price": 12.50},
+      {"title": "Harry Potter and the Philosopher's Stone", "price": 20.00},
+      {"title": "1984", "price": 10.25},
+      {"title": "Pride and Prejudice", "price": 14.75},
+      {"title": "Don Quixote", "price": 18.00},
+      {"title": "The Shadow of the Wind", "price": 16.50},
+      {"title": "To Kill a Mockingbird", "price": 13.80},
+      {"title": "The Da Vinci Code", "price": 22.99},
+      {"title": "The Hunger Games", "price": 17.25}
+    ]
+  }

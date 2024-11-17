@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "ID": 1,
+      "ProductName": "Laptop HP",
+      "Category": "Electronics",
+      "UnitPriceEUR": 800,
+      "StockAvailable": 15,
+      "Manufacturer": "HP",
+      "WeightKg": 2.5,
+      "ReleaseDate": "2022-05-15"
+    },
+    {
+      "ID": 2,
+      "ProductName": "Smartphone Samsung",
+      "Category": "Electronics",
+      "UnitPriceEUR": 500,
+      "StockAvailable": 20,
+      "Manufacturer": "Samsung",
+      "WeightKg": 0.3,
+      "ReleaseDate": "2022-04-01"
+    },
+    {
+      "ID": 3,
+      "ProductName": "Book «1984»",
+      "Category": "Books",
+      "UnitPriceEUR": 20,
+      "StockAvailable": 50,
+      "Manufacturer": "N/A",
+      "WeightKg": "N/A",
+      "ReleaseDate": "1949-06-08"
+    },
+    {
+      "ID": 4,
+      "ProductName": "Canon Camera",
+      "Category": "Electronics",
+      "UnitPriceEUR": 600,
+      "StockAvailable": 10,
+      "Manufacturer": "Canon",
+      "WeightKg": 1.2,
+      "ReleaseDate": "2022-03-20"
+    },
+    {
+      "ID": 5,
+      "ProductName": "Sony Headphones",
+      "Category": "Electronics",
+      "UnitPriceEUR": 100,
+      "StockAvailable": 30,
+      "Manufacturer": "Sony",
+      "WeightKg": 0.5,
+      "ReleaseDate": "2022-02-10"
+    },
+    {
+      "ID": 6,
+      "ProductName": "Wacom Tablet",
+      "Category": "Electronics",
+      "UnitPriceEUR": 300,
+      "StockAvailable": 12,
+      "Manufacturer": "Wacom",
+      "WeightKg": 0.7,
+      "ReleaseDate": "2022-06-05"
+    },
+    {
+      "ID": 7,
+      "ProductName": "Athletic Shoes",
+      "Category": "Fashion",
+      "UnitPriceEUR": 80,
+      "StockAvailable": 25,
+      "Manufacturer": "Nike",
+      "WeightKg": 0.8,
+      "ReleaseDate": "N/A"
+    },
+    {
+      "ID": 8,
+      "ProductName": "Samsung Refrigerator",
+      "Category": "Appliances",
+      "UnitPriceEUR": 1000,
+      "StockAvailable": 8,
+      "Manufacturer": "Samsung",
+      "WeightKg": 80.0,
+      "ReleaseDate": "2022-01-15"
+    }
+  ]
+}

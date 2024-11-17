@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:s="Genero del Autor"
+xmlns:l="Genero del libro">
+<libreria>
+   <libros>
+      <l:genero tema="">
+         <libro></libro>
+         <autor>
+            <nombre></nombre>
+            <s:genero></s:genero>
+         </autor>
+         <editorial></editorial>
+         <isbn></isbn>
+         <fecha_pu></fecha_pu>
+      </l:genero>
+   </libros>
+</libreria>
+</root>

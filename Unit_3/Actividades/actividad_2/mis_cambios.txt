@@ -1,0 +1,6 @@
+// Cambiar ->  private XmlDocument itemDataXml; 
+// Traducir items en xml y descripciones
+// Después cambié las tags en el archivo xml com ctrl + h y después en el UI Controller.
+// Solo cambié las referencias en UIController.cs, las funciones las dejé en inglés posibles fallos de interpretación.
+// Finalmente cambié los botones text en la jerarquía de Unity
+// El package final está adjunto con todos los cambios y 100% funcional

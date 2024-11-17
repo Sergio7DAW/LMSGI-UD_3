@@ -1,0 +1,33 @@
+{
+  "Empresa": {
+    "Empleados": [
+      {
+        "ID": 1,
+        "Nombre": "Juan Pérez",
+        "Edad": 30,
+        "Departamento": "Desarrollo",
+        "Puesto": "Desarrollador Backend",
+        "Salario": 45000,
+        "Proyectos": ["Desarrollo API"]
+      },
+      {
+        "ID": 2,
+        "Nombre": "María López",
+        "Edad": 27,
+        "Departamento": "Diseño",
+        "Puesto": "Diseñadora UI/UX",
+        "Salario": 40000,
+        "Proyectos": ["Rediseño App Móvil"]
+      },
+      {
+        "ID": 3,
+        "Nombre": "Carlos Gómez",
+        "Edad": 35,
+        "Departamento": "Soporte Técnico",
+        "Puesto": "Especialista en Soporte",
+        "Salario": 38000,
+        "Proyectos": ["Documentación de Ayuda"]
+      }
+    ]
+  }
+}

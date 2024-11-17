@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "ID": 1,
+      "Name": "Smartphone",
+      "PriceEUR": 500,
+      "Material": "Plastic",
+      "Category": "Electronics"
+    },
+    {
+      "ID": 2,
+      "Name": "Laptop",
+      "PriceEUR": 1200,
+      "Material": "Metal",
+      "Category": "Electronics"
+    },
+    {
+      "ID": 3,
+      "Name": "Novel",
+      "PriceEUR": 20,
+      "Material": "Paper",
+      "Category": "Books"
+    },
+    {
+      "ID": 4,
+      "Name": "Science Book",
+      "PriceEUR": 25,
+      "Material": "Paper",
+      "Category": "Books"
+    },
+    {
+      "ID": 5,
+      "Name": "T-shirt",
+      "PriceEUR": 15,
+      "Material": "Cotton",
+      "Category": "Clothing"
+    },
+    {
+      "ID": 6,
+      "Name": "Jeans",
+      "PriceEUR": 30,
+      "Material": "Denim",
+      "Category": "Clothing"
+    },
+    {
+      "ID": 7,
+      "Name": "Doll",
+      "PriceEUR": 10,
+      "Material": "Plastic",
+      "Category": "Toys"
+    },
+    {
+      "ID": 8,
+      "Name": "Building Set",
+      "PriceEUR": 25,
+      "Material": "Plastic",
+      "Category": "Toys"
+    }
+  ]
+}
